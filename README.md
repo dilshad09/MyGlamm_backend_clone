@@ -1,7 +1,7 @@
 # MyGlamm_backend_clone
 # Clone of Myglamm
 
-reMyGlamm is India’s fastest growing direct-to-consumer beauty brand. MyGlamm embraces the philosophy of building a community with its users, engaging with them and eventually co-creating products with them. In July 2020, With over 800 SKUs across makeup, skincare and personal care, MyGlamm Beauty Products feature advanced, rich, feel-good formulas that are 100% cruelty-free, embrace Clean Beauty, and have skin-friendly ingredients.
+MyGlamm is India's fastest growing direct-to-consumer beauty brand E-Commerce website. We got to clone this website from Masai School. We work on 5days to clone this website. We were happy to clone this website. In this website, some part was challenging linke- Sliding images in Home page, Authentication, etc. and some part was easy, But we worked on well on this website in a collaborative manner and we completed it successfully. It was a time bound project, that's why, it looked, at first time, more challenging, but we completed it on time. Now, I am happy and ready to work on any new challenging task. Thank You.
 
 # [](https://github.com/shivamongit/MyGlamm_backend_clone#technologies-we-used)Technologies we used
 
